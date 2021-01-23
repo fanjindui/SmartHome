@@ -1,0 +1,1 @@
+六步连接HomeAssistant中的图片
